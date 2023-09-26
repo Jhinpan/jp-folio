@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/jhinpan/sitemap.xml
+Sitemap: https://Jhinpan.github.io/sitemap.xml
