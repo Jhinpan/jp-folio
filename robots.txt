@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Jhinpan.github.io/Portfolio//sitemap.xml
+Sitemap: https://jhinpan.github.io/Portfolio//sitemap.xml
