@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jhinpan.github.io/jp-folio//sitemap.xml
+Sitemap: https://jhinpan.github.io/sitemap.xml
