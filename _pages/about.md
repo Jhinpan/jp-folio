@@ -27,9 +27,8 @@ Before joining Umich, I was studying in the [Shanghai JiaoTong University](https
 
 🔭 **Reseach-wise, I mainly focus on**:
 - **Autonomous Driving**: topics related to **Simulation**, and **Cooperative Driving Automation**
-- **Computer Vision**: topics related to **Convolutional Network** and **Image Classification**
+- **Computer Vision**: topics related to **Model Explainability** and **Image Classification**
 - **Extended Reality**: topics related to **Virtual Reality** and **Augmented Reality**
-
 
 😄 **I am open to**:
 - collaboration opportunities (anytime & anywhere & any type) and
