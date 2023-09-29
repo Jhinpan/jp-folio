@@ -14,11 +14,11 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-### Hi there, I'm [Jhin Pan(潘劲 in Chinese)!](https://jhinpan.github.io/) 👋
+### Hi there, I'm [Jin Pan(潘劲 in Chinese)!](https://jhinpan.github.io/) 👋
 
 I am a senior student major in Computer Science at the [Human Factors Group of UMTRI](https://www.linkedin.com/company/university-of-michigan-transportation-research-institute/) and [Human Centered Computing Laboratory](https://hcc.engin.umich.edu/) in [Umich](https://www.umich.edu/).
 
@@ -26,18 +26,16 @@ Before joining Umich, I was studying in the [Shanghai JiaoTong University](https
 
 
 🔭 **Reseach-wise, I mainly focus on**:
-
 - **Autonomous Driving**: topics related to **Simulation**, and **Cooperative Driving Automation**
 - **Computer Vision**: topics related to **Convolutional Network** and **Image Classification**
 - **Extended Reality**: topics related to **Virtual Reality** and **Augmented Reality**
 
 
 😄 **I am open to**:
-
 - collaboration opportunities (anytime & anywhere & any type) and
 - research internships
 
 📫 **Contact me by**:
 - Email (jhinpan [AT] umich.edu)
-- [Homepage](https://github.com/jhinpan/)
+- [Github](https://github.com/jhinpan/)
 - [Linkedin](https://www.linkedin.com/in/jin-pan-246a04253/)
