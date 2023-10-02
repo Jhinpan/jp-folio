@@ -6,11 +6,15 @@ img: assets/img/cse_simulator_overview.png
 importance: 1
 category: work
 related_publications:
+youtubeId: RfboFXxiJHc?si=-Dy-ZKK4_0Ylnjru
 ---
 
 EECS498-XR Project 1 finished by Jin Pan and Enming Xu
+
 In Milestone, we realized a general simulation for 1695 BBB with all those ceilings, walls, pillars, dividers and all the other necessary settings for a computer lab.
+
 In the later Alpha part, we realized more interactive features thanks to the affordability offered by the Unreal Blueprints. We added several incredible features like the passerby lost in the infinite loop, the writable whiteboard, intractable NPC from Apex Legend, emergency fire alarm, online wall fliers and day-night progression..
+
 In the final gold part, our custom feature is that Users can teleport to a new area playing with the Jenga similar to that one in the ppc. And if user messed up, he/she could easily use the red button to reset the whole Jenga and teleport back to the lab as well.
 
 **Technology utilized:** Unreal Engine 5, Blueprints, Oculus, Blender, JIRA, etc..
@@ -21,29 +25,26 @@ In the final gold part, our custom feature is that Users can teleport to a new a
         {% include figure.html path="assets/img/whiteboard.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cse_simulator_overview.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-
-</div>
-<div class="caption">
-     On the left, view in front of the whiteboard                   On the right, overview for the whole VR lab.
-</div>
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/apex_legends.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Jenga.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+     On the left, view in front of the whiteboard &emsp;&emsp; On the right, overview for those ApexLegends NPC.
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/p1_milestone+alpha+gold.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include figure.html path="assets/img/Jenga.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Images for the show of Jenga Game we custom.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+    {% include youtubePlayer.html id=page.youtubeId %}
     </div>
 </div>
 <div class="caption">
