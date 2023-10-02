@@ -31,7 +31,7 @@ In the final gold part, our custom feature is that Users can teleport to a new a
 
 </div>
 <div class="caption">
-     On the left, view in front of the whiteboard &emsp;&emsp;&emsp; On the right, overview for those ApexLegends NPC
+     On the left, view in front of the whiteboard &emsp; &emsp; &emsp; &emsp; On the right, overview for those ApexLegends NPC
 </div>
 
 <div class="row">
