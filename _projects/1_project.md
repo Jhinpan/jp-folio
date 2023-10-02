@@ -18,6 +18,7 @@ In the later Alpha part, we realized more interactive features thanks to the aff
 In the final gold part, our custom feature is that Users can teleport to a new area playing with the Jenga similar to that one in the ppc. And if user messed up, he/she could easily use the red button to reset the whole Jenga and teleport back to the lab as well.
 
 **Technology utilized:** *Unreal Engine 5*, *Blueprints*, *Oculus*, *Blender*, *JIRA*, etc..
+
 **Specific features:** https://docs.google.com/spreadsheets/d/17xKCVQRhd7Sfb0sLZjfH5EX5QESD3y1AKN7vodx6UHs/edit#gid=0
 
 <div class="row">
