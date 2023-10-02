@@ -17,8 +17,8 @@ In the later Alpha part, we realized more interactive features thanks to the aff
 
 In the final gold part, our custom feature is that Users can teleport to a new area playing with the Jenga similar to that one in the ppc. And if user messed up, he/she could easily use the red button to reset the whole Jenga and teleport back to the lab as well.
 
-**Technology utilized:** Unreal Engine 5, Blueprints, Oculus, Blender, JIRA, etc..
-
+**Technology utilized:** *Unreal Engine 5*, *Blueprints*, *Oculus*, *Blender*, *JIRA*, etc..
+**Specific features:** https://docs.google.com/spreadsheets/d/17xKCVQRhd7Sfb0sLZjfH5EX5QESD3y1AKN7vodx6UHs/edit#gid=0
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -30,7 +30,7 @@ In the final gold part, our custom feature is that Users can teleport to a new a
 
 </div>
 <div class="caption">
-     On the left, view in front of the whiteboard &emsp;&emsp; On the right, overview for those ApexLegends NPC.
+     On the left, view in front of the whiteboard &emsp;&emsp;&emsp; On the right, overview for those ApexLegends NPC
 </div>
 
 <div class="row">
@@ -39,7 +39,7 @@ In the final gold part, our custom feature is that Users can teleport to a new a
     </div>
 </div>
 <div class="caption">
-    Images for the show of Jenga Game we custom.
+    Images for the show of Jenga Game we custom
 </div>
 
 <div class="row">
