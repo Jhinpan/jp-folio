@@ -1,8 +1,8 @@
 ---
 layout: page
 title: AnnArbor Go
-description: EECS498 Project 2 For VR-version 1695 BBB
-img: assets/img/cse_simulator_overview.png
+description: EECS498 Project 2 For Pokemon Go AnnArbor Ver
+img: assets/img/a2go_overview.jpg
 importance: 1
 category: work
 related_publications:
@@ -19,7 +19,7 @@ In the final gold part, our custom feature is that: Engage in an exhilarating ba
 
 **Technology utilized:** *Unity*, *C#*, *MapBox*, *JIRA*, etc..
 
-**Specific features:** https://docs.google.com/spreadsheets/d/17xKCVQRhd7Sfb0sLZjfH5EX5QESD3y1AKN7vodx6UHs/edit#gid=0
+**Specific features:** https://docs.google.com/spreadsheets/d/18NRsyFYyJ3T8ZrxDtCFbFHl2vGUzsAITa-vq5RXc8N4/edit#gid=0
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
