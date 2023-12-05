@@ -2,7 +2,7 @@
 layout: page
 title: CSE Simulator
 description: EECS498 Project 1 For VR-version 1695 BBB
-img: assets/img/cse_simulator_overview.png
+img: assets/img/cse_simulator_overview.jpg
 importance: 1
 category: work
 related_publications:
