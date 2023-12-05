@@ -4,7 +4,7 @@ title: AnnArbor Go
 description: EECS498 Project 2 For Pokemon Go AnnArbor Ver
 img: assets/img/a2go_overview.jpg
 importance: 1
-category: work
+category: EECS498
 related_publications:
 youtubeId: l0ruymsarmQ?si=3csQ0qjQfU2Glo8t
 ---
