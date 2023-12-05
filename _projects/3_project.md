@@ -22,7 +22,7 @@ This application has the main three features:
 - Real-Time Translation: Translate the objects' names to your languages immediately.
 - AR Practice: shooting game that can help practice what you learnt with AR virtual objects.
 
-**Technology utilized:** *Unity*, *C#*, *OpenCV*, *Google Cloud Translation*, ,*AWS Polly*, *JIRA*, etc..
+**Technology utilized:** *Unity*, *C#*, *OpenCV*, *Google Cloud Translation*, *AWS Polly*, *JIRA*, etc..
 
 **Specific features:** https://cedrus17.wixsite.com/lingua-ar/blank-1
 
