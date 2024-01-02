@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jhinpan
 
 github_repos:
   - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - srcnalt/OpenAI-Unity
+  - RayneZhang/VCSCollab
+  - Huang/spectral_contrastive_learning
+
