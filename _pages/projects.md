@@ -5,7 +5,8 @@ permalink: /projects/
 description: A growing collection of all my cool projects.
 nav: true
 nav_order: 2
-display_categories: [EECS498, VRCopilot]
+# display_categories: [EECS498, VRCopilot]
+display_categories: [EECS498]
 horizontal: false
 ---
 
