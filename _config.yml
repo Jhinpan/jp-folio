@@ -73,7 +73,7 @@ github_username: jhinpan # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: Jin Pan # your LinkedIn user name
+linkedin_username: jin-pan-246a04253 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -100,7 +100,7 @@ pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
-youtube_id: www.youtube.com/channel/UCb65DEuWsriceznybRhY5fA # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: youtube.com/UCb65DEuWsriceznybRhY5fA # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: 1042924046821629972 # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
