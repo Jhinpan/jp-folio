@@ -4,7 +4,7 @@ title: Lingua AR
 description: EECS498 Project 3 For AR Language Learning App
 img: assets/img/LinguaAR_overview.jpg
 importance: 1
-category: EECS498
+category: EECS440
 related_publications:
 youtubeId: vS-eEXoLglc?si=zjBtszyZ3guLpnmM
 ---

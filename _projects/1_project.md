@@ -4,7 +4,7 @@ title: CSE Simulator
 description: EECS498 Project 1 For VR-version 1695 BBB
 img: assets/img/cse_simulator_overview.jpg
 importance: 1
-category: EECS498
+category: EECS440
 related_publications:
 youtubeId: RfboFXxiJHc?si=-Dy-ZKK4_0Ylnjru
 ---
