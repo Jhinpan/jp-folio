@@ -2,7 +2,7 @@
 layout: page
 title: Customized Game Engine
 description: EECS498-007 Final Project
-img: assets/img/LinguaAR_overview.jpg
+img: assets/img/ShowImage4GEA.png
 importance: 1
 category: EECS498
 related_publications:
