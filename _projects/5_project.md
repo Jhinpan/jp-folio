@@ -1,34 +1,30 @@
 ---
 layout: page
-title: HTML Template & Web Interactive Editor
+title: HTML Template & Interactive Editor
 description: EECS 498 Final Customized Feature
 img: assets/img/rsz_3final.png
 importance: 1
 category: EECS498
 related_publications:
-youtubeId: O1AiErMVshw?si=nPu2Q8MWH_zIR4N0
+youtubeId: FwgjH3qlcRU?si=O6enyuYSucMkJHlO
 ---
 
 EECS498-Game Engine Architecture Final Customized Feature finished by Jin Pan
 
-# Script for the Final Customized Feature of EECS498-Game Engine Architecture - HTML Template & Web Interactive Editor
-
-HTML Template part:
-- first show the web build version on jhinpan.github.io/Game_Engine_Jinx/ (mainly show the ugly emscripten logo and console)
+HTML Template Part:
+- Propose this final custom feature because of the web build milestone version on jhinpan.github.io/Game_Engine_Jinx/ (mainly the emscripten logo and console)
 - saying that in order to solve this, we design several different html templates for user to choose
 - showing the switch_and_build.sh & Makefile & setup_and_build.sh to show that we can switch from all those different html templates
 - Now introduce the three basic templates: Minimal shell, Dark shell, and Retro shell.
 - show the minimal_shell.html, dark_shell.html, and retro_shell.html with their effects.
-- All those HTML are mainly about
+- All those HTML are mainly about CSS style and Emscipten script to show the content and background UI design
 
 Web Interactive Editor:
 - Then saying that we want to have a more interactive html template for user to use -> we design web interactive editor for user to design the map that they want for specific level design.
 - show the server.js and interactive_shell.html : server & client side
-- Explain whether we should make the re-compilation process more automatic
+- Explain whether we should make the re-compilation process more automatic - because there is compilation issue when switching from one html template to another
 
 **Technology utilized:** *bash*, *Emscripten*, *HTML*, *CSS*, *Java Script*, *Server&Client*, etc..
-
-**Specific features:** https://cedrus17.wixsite.com/lingua-ar/blank-1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
