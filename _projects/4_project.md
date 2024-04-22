@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web Build SDL2 Game via Emscripten
+title: Web Build via Emscripten
 description: EECS 498 Customized Feature Milestone
 img: assets/img/ShowImage4GEA.png
 importance: 1
