@@ -2,7 +2,7 @@
 layout: page
 title: HTML Template & Web Interactive Editor
 description: EECS 498 Final Customized Feature
-img: assets/img/rsz_final.png
+img: assets/img/rsz_3final.png
 importance: 1
 category: EECS498
 related_publications:
