@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-6-14 07:59:00-0400
+date: 2024-4-15 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Join the Human-AI Lab advised by prof. Anhong Guo.
+Accept the offer from traditional M.S./Ph.D. program in Computer Sciences at the University of Wisconsin-Madison!
