@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Michigan</a>. Madison, WI 53705.
+subtitle: <a href='#'>University of Wisconsin, Madison</a>. Madison, WI 53705.
 
 profile:
   align: right
